@@ -1,5 +1,5 @@
 test:
-  message: AAAAAA
+  message: JAVA
   
 server:
   port: 0
